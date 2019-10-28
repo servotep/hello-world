@@ -2,4 +2,4 @@
 Intro example repository
 
 
-Updating readme-eidts branch here
+I am a person who is trying to understand Git and Github.
